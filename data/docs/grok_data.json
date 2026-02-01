@@ -1,0 +1,149 @@
+{
+  "grok_models": {
+    "grok-2-1212": {
+      "id": "grok-2-1212",
+      "created": 1737331200,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-2-vision-1212": {
+      "id": "grok-2-vision-1212",
+      "created": 1733961600,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-beta": {
+      "id": "grok-3-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-fast-beta": {
+      "id": "grok-3-fast-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-mini-beta": {
+      "id": "grok-3-mini-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-mini-fast-beta": {
+      "id": "grok-3-mini-fast-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-beta": {
+      "id": "grok-beta",
+      "created": 1727136000,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-vision-beta": {
+      "id": "grok-vision-beta",
+      "created": 1730764800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-2-image-1212": {
+      "id": "grok-2-image-1212",
+      "created": 1736726400,
+      "object": "model",
+      "owned_by": "xai"
+    }
+  },
+  "grok_chats": {
+    "0": {
+      "id": 0,
+      "model": "template",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are Grok, a highly intelligent, helpful AI assistant."
+        },
+        {
+          "role": "user",
+          "content": "What is the meaning of life, the universe, and everything?"
+        }
+      ],
+      "created_at": 1697059200,
+      "updated_at": 1697059200
+    },
+    "1366314275152596993": {
+      "channel_id": 1,
+      "model": "grok-3-fast-latest",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        }
+      ],
+      "created_at": 1697059200,
+      "updated_at": 1697059200
+    },
+    "counts": 1
+  },
+  "models": {
+    "grok-2-1212": {
+      "id": "grok-2-1212",
+      "created": 1737331200,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-2-vision-1212": {
+      "id": "grok-2-vision-1212",
+      "created": 1733961600,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-beta": {
+      "id": "grok-3-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-fast-beta": {
+      "id": "grok-3-fast-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-mini-beta": {
+      "id": "grok-3-mini-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-3-mini-fast-beta": {
+      "id": "grok-3-mini-fast-beta",
+      "created": 1743724800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-beta": {
+      "id": "grok-beta",
+      "created": 1727136000,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-vision-beta": {
+      "id": "grok-vision-beta",
+      "created": 1730764800,
+      "object": "model",
+      "owned_by": "xai"
+    },
+    "grok-2-image-1212": {
+      "id": "grok-2-image-1212",
+      "created": 1736726400,
+      "object": "model",
+      "owned_by": "xai"
+    }
+  }
+}
